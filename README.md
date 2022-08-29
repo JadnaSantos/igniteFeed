@@ -11,6 +11,6 @@
 - Typescript
 
 ### Features
-
+- [ ] API FAKE;
 - [x] Deslike functionality;
 - [ ] Tests - in progress
